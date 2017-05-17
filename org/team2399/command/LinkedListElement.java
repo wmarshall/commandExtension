@@ -5,7 +5,7 @@
 /* the project.                                                               */
 /*----------------------------------------------------------------------------*/
 
-package edu.wpi.first.wpilibj.command;
+package org.team2399.command;
 
 /**
  * An element that is in a LinkedList.

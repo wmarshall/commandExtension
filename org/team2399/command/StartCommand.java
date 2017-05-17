@@ -5,7 +5,7 @@
 /* the project.                                                               */
 /*----------------------------------------------------------------------------*/
 
-package edu.wpi.first.wpilibj.command;
+package org.team2399.command;
 
 /**
  * A {@link StartCommand} will call the {@link Command#start() start()} method of another command

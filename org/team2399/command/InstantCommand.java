@@ -5,7 +5,7 @@
 /* the project.                                                               */
 /*----------------------------------------------------------------------------*/
 
-package edu.wpi.first.wpilibj.command;
+package org.team2399.command;
 
 /**
  * This command will execute once, then finish immediately afterward.

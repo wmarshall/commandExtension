@@ -5,7 +5,7 @@
 /* the project.                                                               */
 /*----------------------------------------------------------------------------*/
 
-package edu.wpi.first.wpilibj.command;
+package org.team2399.command;
 
 import java.util.Enumeration;
 import java.util.Hashtable;
@@ -13,7 +13,7 @@ import java.util.Vector;
 
 import edu.wpi.first.wpilibj.HLUsageReporting;
 import edu.wpi.first.wpilibj.NamedSendable;
-import edu.wpi.first.wpilibj.buttons.Trigger.ButtonScheduler;
+import org.team2399.buttons.Trigger.ButtonScheduler;
 import edu.wpi.first.wpilibj.tables.ITable;
 
 /**
@@ -74,7 +74,7 @@ public class Scheduler implements NamedSendable {
   private Vector m_additions = new Vector();
   private ITable m_table;
   /**
-   * A list of all {@link edu.wpi.first.wpilibj.buttons.Trigger.ButtonScheduler Buttons}. It is
+   * A list of all {@link org.team2399.buttons.Trigger.ButtonScheduler Buttons}. It is
    * created lazily.
    */
   private Vector m_buttons;

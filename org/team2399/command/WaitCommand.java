@@ -5,7 +5,7 @@
 /* the project.                                                               */
 /*----------------------------------------------------------------------------*/
 
-package edu.wpi.first.wpilibj.command;
+package org.team2399.command;
 
 /**
  * A {@link WaitCommand} will wait for a certain amount of time before finishing. It is useful if

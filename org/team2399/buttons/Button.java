@@ -5,9 +5,9 @@
 /* the project.                                                               */
 /*----------------------------------------------------------------------------*/
 
-package edu.wpi.first.wpilibj.buttons;
+package org.team2399.buttons;
 
-import edu.wpi.first.wpilibj.command.Command;
+import org.team2399.command.Command;
 
 /**
  * This class provides an easy way to link commands to OI inputs.

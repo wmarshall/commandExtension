@@ -5,7 +5,7 @@
 /* the project.                                                               */
 /*----------------------------------------------------------------------------*/
 
-package edu.wpi.first.wpilibj.buttons;
+package org.team2399.buttons;
 
 import edu.wpi.first.wpilibj.networktables.NetworkTable;
 

@@ -5,7 +5,7 @@
 /* the project.                                                               */
 /*----------------------------------------------------------------------------*/
 
-package edu.wpi.first.wpilibj.buttons;
+package org.team2399.buttons;
 
 /**
  * This class is intended to be used within a program. The programmer can manually set its value.

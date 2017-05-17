@@ -5,11 +5,11 @@
 /* the project.                                                               */
 /*----------------------------------------------------------------------------*/
 
-package edu.wpi.first.wpilibj.buttons;
+package org.team2399.buttons;
 
 import edu.wpi.first.wpilibj.Sendable;
-import edu.wpi.first.wpilibj.command.Command;
-import edu.wpi.first.wpilibj.command.Scheduler;
+import org.team2399.command.Command;
+import org.team2399.command.Scheduler;
 import edu.wpi.first.wpilibj.tables.ITable;
 
 /**
